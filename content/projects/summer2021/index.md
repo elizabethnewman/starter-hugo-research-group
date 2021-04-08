@@ -24,7 +24,7 @@ abstract: "The  advance  of  theneuroimaging  technology  of  functional  Magnet
 # Schedule page publish date (NOT talk date).
 # publishDate: "2017-01-01T00:00:00Z"
 
-authors: Elizabeth Newman, Yuanzhe Xi, Joyce Ho
+authors: Elizabeth Newman
 tags: tensor, fmri
 
 # Is this a featured talk? (true/false)
