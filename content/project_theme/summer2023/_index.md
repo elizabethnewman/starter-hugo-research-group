@@ -1,5 +1,5 @@
 ---
-title: Summer 2021
+title: Summer 2023 - Data for Social Justice
 
 # View.
 #   1 = List

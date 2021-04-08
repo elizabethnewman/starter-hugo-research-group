@@ -1,7 +1,7 @@
 ---
 title: Tensors for fMRI
 
-project: Wowchemy Conference
+project: Multidimensional Approaches to Mediaul Imaging
 project_url: https://tensorsfmri.org
 
 location: Emory University
@@ -30,7 +30,7 @@ tags: [tensor, fMRI]
 # Is this a featured talk? (true/false)
 featured: false
 
-image: ![](featured.pdf)
+image: ![](./content/project_theme/summer2021/tensors/featured.pdf)
   caption: 'MATLAB Brain Images'
   focal_point: Right
 
