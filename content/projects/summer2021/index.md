@@ -12,7 +12,7 @@ address:
   postcode: '30308'
   country: United States
 
-summary: Tensors for fMRI
+summary: Multidimensional Medical Imaging
 abstract: "The  advance  of  theneuroimaging  technology  of  functional  Magnetic  Resonance  Imaging  (fMRI)  has  provided  largeamounts of digital data, which can be used to study the complex functionality of human brain.  A whole brain fMRI image sample consists of a discrete time series of 3D image scans,where each scan consists of hundreds of thousands of voxels.  An fMRI brain image sample can benaturally represented as a fourth-order tensor, with three space and one time dimension.  Becausethe  fMRI  often  has  various  nuisance  components  and  noise and  reflects  brain  activity  fromboth the spatial and temporal domain, it still remains challenging to analyze fMRI data."
 
 # Talk start and end times.
@@ -25,13 +25,13 @@ abstract: "The  advance  of  theneuroimaging  technology  of  functional  Magnet
 # publishDate: "2017-01-01T00:00:00Z"
 
 authors: [Elizabeth Newman, Yuanzhe Xi, Joyce Ho]
-tags: tensor, fmri
+tags: [tensor, fMRI]
 
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+image: ![](featured.pdf)
+  caption: 'MATLAB Brain Images'
   focal_point: Right
 
 url_code: ""
