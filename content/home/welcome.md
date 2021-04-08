@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Emory Research Experience for Undergraduates and Teachers site focuses on computational mathematics and itsapplications  in  data  science,  which  impacts  nearly  every  field  of  science  and  more  and  more  of  our  daily  lives.
+The Emory Research Experience for Undergraduates and Teachers site focuses on computational mathematics and its applications  in  data  science,  which  impacts  nearly  every  field  of  science  and  more  and  more  of  our  daily  lives.
