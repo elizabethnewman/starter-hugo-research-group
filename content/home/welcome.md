@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The Emory Research Experience for Undergraduates and Teachers site focuses on computational mathematics and itsapplications  in  data  science,  which  impacts  nearly  every  field  of  science  and  more  and  more  of  our  daily  lives.   TheREU/RET site will introduce undergraduate students and teachers to the mathematical theory and computational toolsused  in  applications  ranging  from  data  assimilation  to  machine  learning  and  enable  them  to  advance  these  fields  bysolving research problems in teams.  Thereby, participants actively contribute toward a mathematical understanding ofdata science and its applications.  The site’s activities are centered around a common theme that differs each year.
