@@ -60,10 +60,13 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Mentors
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Gregory L. Dooley, a skeleton and the university's unofficial mascot, made his first appearances at Emory in 1899 and 1909 by writing letters to the student publication the Emory Phoenix from his perch in a science lab.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Taking his first name and middle initial from the current university president, Dooley is represented on campus by a student -- whose identity is kept secret -- dressed as a skeleton with a black cape, a black top hat, and white gloves.
+
+In his role as the Spirit of Emory, Dooley rises to rule campus a few times each year, notably for the annual Town Hall Meeting in the fall and Dooley's Week every spring.
+
+Editor's note: At the time of the selection of the Emory Makers of History, identified as part of Emory's 175th anniversary celebrations in 2011, the Spirit of Emory was known as James W. Dooley.
