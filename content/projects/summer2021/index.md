@@ -1,8 +1,8 @@
 ---
-title: Summer 2021: Tensors for fMRI
+title: Tensors for fMRI
 
-event: Wowchemy Conference
-event_url: https://tensorsfmri.org
+project: Wowchemy Conference
+project_url: https://tensorsfmri.org
 
 location: Emory University
 address:
