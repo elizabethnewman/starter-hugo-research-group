@@ -1,41 +1,35 @@
 ---
 # Display name
-title: 吳恩達
+title: Claire E. Dooley
 
 # Username (this should match the folder name)
 authors:
-- 吳恩達
+- dooley
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Spirit of Emory
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Emory University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests lie in ruling Emory University. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Capes
+- Bowler Hats
+- Bones
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Spectral Theory (Why Ghosts Exist)
+    institution: Emory Univerity
+    year: 1899
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
