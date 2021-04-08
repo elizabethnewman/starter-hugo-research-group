@@ -1,31 +1,31 @@
 ---
-title: Example Event
+title: Summer 2021: Tensors for fMRI
 
 event: Wowchemy Conference
-event_url: https://example.org
+event_url: https://tensorsfmri.org
 
-location: Wowchemy HQ
+location: Emory University
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 400 Dowman Drive
+  city: Atlanta
+  region: GA
+  postcode: '30308'
   country: United States
 
-summary: An example event.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Tensors for fMRI
+abstract: "The  advance  of  theneuroimaging  technology  of  functional  Magnetic  Resonance  Imaging  (fMRI)  has  provided  largeamounts of digital data, which can be used to study the complex functionality of human brain.  A whole brain fMRI image sample consists of a discrete time series of 3D image scans,where each scan consists of hundreds of thousands of voxels.  An fMRI brain image sample can benaturally represented as a fourth-order tensor, with three space and one time dimension.  Becausethe  fMRI  often  has  various  nuisance  components  and  noise and  reflects  brain  activity  fromboth the spatial and temporal domain, it still remains challenging to analyze fMRI data."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
+# date: "2030-06-01T13:00:00Z"
+# date_end: "2030-06-01T15:00:00Z"
+# all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
-authors: []
-tags: []
+authors: Elizabeth Newman, Yuanzhe Xi, Joyce Ho
+tags: tensor, fmri
 
 # Is this a featured talk? (true/false)
 featured: false
