@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Claire E. Dooley
+title: Gregory L. Dooley
 
 # Username (this should match the folder name)
 authors:
