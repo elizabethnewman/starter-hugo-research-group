@@ -17,9 +17,7 @@ organizations:
 bio: My research interests include scientific computing, deep learning, multidimensional linear algebra, and more!
 
 interests:
-- Soccer, basketball, softball, really any sport
-- Broadway musicals (though I'm not a performer)
-- "Old" television shows (The Dick van Dyke Show is my favorite)
+- Things
 
 
 education:
@@ -63,7 +61,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Mentors
 ---
 
 Elizabeth Newman is a Distinguished Visiting Assistant Professor in Scientific Computing at Emory University.
