@@ -2,7 +2,7 @@
 title: Practice
 view: 4
 
-header:
-  caption: ""
+header: Header
+  caption: "This is a header."
   image: ""
 ---
