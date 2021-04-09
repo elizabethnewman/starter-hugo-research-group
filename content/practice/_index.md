@@ -24,5 +24,5 @@ But I also want to show some code.
 
 Let's add an image!
 
-![The Emory Math/CS Building!](/assets/my_images/emorymathcs.jpeg)
+![The Emory Math/CS Building!](../../assets/my_images/emorymathcs.jpeg)
 
