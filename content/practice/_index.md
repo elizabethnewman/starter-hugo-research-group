@@ -26,3 +26,21 @@ Let's add an image!
 
 ![The Emory Math/CS Building!](emorymathcs.jpeg)
 
+---
+## Let's Write Some Math!
+
+We can add $x + 2$, or solve $\mathbf{A}\mathbf{x} = \mathbf{b}$, or write in $Epsilon\lambda\lambda\'{\alpha}\delta\alpha$. 
+
+We can also write math in its own line.
+
+\begin{equation}
+Ax = \lambda x
+\end{equation}
+
+---
+## Useful Links
+
+We can add hyperlinks in Markdown.  We can find basic commands in many resources, including
+
+* [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+* [Writing Markdown in LaTeX Documents](https://www.overleaf.com/learn/how-to/Writing_Markdown_in_LaTeX_Documents)
