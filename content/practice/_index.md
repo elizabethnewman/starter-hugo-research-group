@@ -29,7 +29,7 @@ Let's add an image!
 ---
 ## Let's Write Some Math!
 
-We can add $x + 2$, or solve $\mathbf{A}\mathbf{x} = \mathbf{b}$, or write in $\Epsilon\lambda\lambda\'{\alpha}\delta\alpha$. 
+We can add $x + 2$, or solve $\mathbf{A}\mathbf{x} = \mathbf{b}$, or write in $E\lambda\lambda{\acute{\alpha}}\delta\alpha$. 
 
 We can also write math in its own line.
 
